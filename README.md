@@ -1,3 +1,5 @@
 # linkchecker
 
 check
+
+check
